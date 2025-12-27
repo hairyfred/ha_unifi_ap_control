@@ -15,6 +15,16 @@ A Home Assistant custom integration for controlling UniFi Access Points.
 
 ## Installation
 
+### HACS (Recommended)
+
+1. Open HACS in Home Assistant
+2. Click the three dots in the top right corner
+3. Select **Custom repositories**
+4. Add `https://github.com/hairyfred/ha_unifi_ap_control` as an **Integration**
+5. Click **Add**
+6. Search for **"HA UniFi AP Control"** and install it
+7. Restart Home Assistant
+
 ### Manual Installation
 
 1. Copy the `ha_unifi_ap_control` folder to your Home Assistant `custom_components` directory:
