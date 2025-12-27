@@ -108,7 +108,7 @@ actions:
 
 - Home Assistant 2023.1 or newer
 - UniFi Controller with API access
-- A local user account on the UniFi Controller (not Ubiquiti cloud account)
+- A local user account on the UniFi Controller (Ubiquiti cloud accounts are not supported as 2FA is not implemented). For security reasons, give this account minimal permissions
 
 ## License
 
